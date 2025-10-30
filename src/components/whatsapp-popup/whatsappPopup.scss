@@ -1,0 +1,32 @@
+/* WhatsAppPopup.css */
+
+.whatsapp-popup {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .whatsapp-popup.visible {
+    opacity: 1;
+  }
+  
+  .whatsapp-icon {
+    display: block;
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .wa-img-fluid{
+    height: 62px;
+    transition: width 0.3s ease, height 0.3s ease; /* Smooth transition for width and height */
+  }
+  .wa-img-fluid:hover {
+    height: 80px; /* Increase width on hover */
+  }
+
+  

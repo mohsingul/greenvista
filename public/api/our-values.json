@@ -1,0 +1,87 @@
+[
+    {
+        "title": "Double Bed",
+        "description": "Experience luxury and comfort in Green Vista apartments, featuring spacious 2-bed layouts, elegant design, and stunning balcony vistas amidst the tranquil hills of Murree, just moments from Islamabad.",
+        "attributes": [
+            {
+                "name": "Floor No",
+                "option": "4th - 12th"
+            },
+            {
+                "name": "Rooms",
+                "option": "2"
+            },
+            {
+                "name": "Total Area, SQFT.",
+                "option": "Ranging from 1,078 Sqft to 1,579"
+            },
+            {
+                "name": "Installment Plan",
+                "option": "36 months"
+            },
+            {
+                "name": "Price",
+                "option": "PKR 19,000/Sqft"
+            }
+        ],
+        "image": "/assets/images/apartment/doublebed.png"
+    },
+    {
+        "title": "Studio",
+        "description": "Discover serene living in Green Vista apartments, where every 1-bed unit offers elegant interiors and breathtaking balcony views in the heart of the picturesque hills near Islamabad",
+
+        "attributes": [
+            {
+                "name": "Floor No",
+                "option": "4th - 12th"
+            },
+            {
+                "name": "Rooms",
+                "option": "1"
+            },
+            {
+                "name": "Total Area, SQFT.",
+                "option": "Ranging from 768 Sqft to 1046 Sqft"
+            },
+            {
+                "name": "Installment Plan",
+                "option": "36 months"
+            },
+            {
+                "name": "Price",
+                "option": "PKR 19,000/Sqft"
+            }
+        ],
+        "image": "/assets/images/apartment/studio.png",
+        "position": "left"
+    },
+    {
+        "title": "Commercial",
+        "description": "Elevate your business in our Green Vista commercial property, where elegant design meets strategic location, offering a prime opportunity for success in the serene hills near Islamabad.",
+        "attributes": [
+            {
+                "name": "Floor No",
+                "option": "Ground - 3rd"
+            },
+            {
+                "name": "Rooms",
+                "option": "-"
+            },
+            {
+                "name": "Total Area, SQFT.",
+                "option": "Ranging from 250 Sqft to 1000 Sqft"
+            },
+            {
+                "name": "Installment Plan",
+                "option": "36 months"
+            },
+            {
+                "name": "Price",
+                "option": "PKR 60,000/Sqft"
+            }
+        ],
+        "image": "/assets/images/apartment/commercial.jpg",
+        "position": "left"
+    }
+
+]

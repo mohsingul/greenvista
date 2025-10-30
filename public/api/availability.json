@@ -1,0 +1,107 @@
+[
+    {
+        "appartment": "1A",
+        "bed/bath": "1 / 1",
+        "sq. ft.": "935",
+        "sale price": "-",
+        "rent price": "-",
+        "construction plan": "/assets/images/apartmentss/1Aap.jpg"
+    },
+    {
+        "appartment": "1B",
+        "bed/bath": "2 / 2",
+        "sq. ft.": "785",                                       
+        "sale price": "-",
+        "rent price": "-",
+        "construction plan": "/assets/images/apartmentss/1BCap.jpg"
+    },
+    {
+        "appartment": "1C",
+        "bed/bath": "1 / 1",
+        "sq. ft.": "785",
+        "sale price": "-",
+        "rent price": "-",
+        "construction plan": "/assets/images/apartmentss/1BCap.jpg"
+    },
+    {
+        "appartment": "1D",
+        "bed/bath": "1 / 1",
+        "sq. ft.": "798",
+        "sale price": "-",
+        "rent price": "-",
+        "construction plan": "/assets/images/apartmentss/1Dap.jpg"
+    },
+    {
+        "appartment": "1E",
+        "bed/bath": "1 / 1",
+        "sq. ft.": "1046",
+        "sale price": "-",
+        "rent price": "-",
+        "construction plan": "/assets/images/apartmentss/1Eap.jpg"
+    },
+    {
+        "appartment": "1F",
+        "bed/bath": "1 / 1",
+        "sq. ft.": "670",
+        "sale price": "-",
+        "rent price": "-",
+        "construction plan": "/assets/images/apartmentss/1Fap.jpg"
+    },
+    {
+        "appartment": "1G",
+        "bed/bath": "1 / 1",
+        "sq. ft.": "790",
+        "sale price": "-",
+        "rent price": "-",
+        "construction plan": "/assets/images/apartmentss/1GHap.jpg"
+    }
+    ,
+    {
+        "appartment": "1H",
+        "bed/bath": "1 / 1",
+        "sq. ft.": "768",
+        "sale price": "-",
+        "rent price": "-",
+        "construction plan": "/assets/images/apartmentss/1GHap.jpg"
+    },
+    {
+        "appartment": "2A",
+        "bed/bath": "1 / 1",
+        "sq. ft.": "1095",
+        "sale price": "-",
+        "rent price": "-",
+        "construction plan": "/assets/images/apartmentss/2Bap.jpg"
+    },
+    {
+        "appartment": "2B",
+        "bed/bath": "1 / 1",
+        "sq. ft.": "1238",
+        "sale price": "-",
+        "rent price": "-",
+        "construction plan": "/assets/images/apartmentss/2Bap.jpg"
+    },
+    {
+        "appartment": "2C",
+        "bed/bath": "1 / 1",
+        "sq. ft.": "1215",
+        "sale price": "-",
+        "rent price": "-",
+        "construction plan": "/assets/images/apartmentss/2Bap.jpg"
+    },
+    {
+        "appartment": "2D",
+        "bed/bath": "1 / 1",
+        "sq. ft.": "1579",
+        "sale price": "-",
+        "rent price": "-",
+        "construction plan": "/assets/images/apartmentss/2Dap.jpg"
+    },
+    {
+        "appartment": "2E",
+        "bed/bath": "1 / 1",
+        "sq. ft.": "1078",
+        "sale price": "-",
+        "rent price": "-",
+        "construction plan": "/assets/images/apartmentss/2Dap.jpg"
+    }
+]

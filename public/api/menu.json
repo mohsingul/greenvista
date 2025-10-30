@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Home",
+        "link": "/",
+        "children": [
+        ]
+    },
+    {
+        "name": "About Us",
+        "link": "/about-us",
+        "children": []
+    },
+    {
+        "name": "Apartments",
+        "link": "/apartments",
+        "children": []
+    },
+    {
+        "name": "Pages",
+        "link": "/the-building",
+        "children": [
+            {
+                "name": "Our Services",
+                "link": "/our-services",
+                "children": []
+            },
+            
+            {
+                "name": "The Building",
+                "link": "/the-building",
+                "children": []
+            }
+        ]
+    },
+   
+    {
+        "name": "Contact",
+        "link": "/contact-us",
+        "children": []
+    }
+]
