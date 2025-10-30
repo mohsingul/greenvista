@@ -36,19 +36,6 @@ This platform was built to highlight Exquisite Builders’ portfolio of luxury d
 
 ---
 
-## 🚀 Getting Started
+## 🌐 Live Demo
 
-Follow these steps to set up the project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/green-vista.git
-
-# Navigate into the project folder
-cd green-vista
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
+👉 https://greenvistaa.vercel.app/
